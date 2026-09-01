@@ -1,4 +1,4 @@
-# Bridging the Digital Divide — Power BI Capstone
+# Bridging the Digital Divide : Power BI Capstone
 
 An interactive Power BI dashboard analysing internet and mobile adoption across South Africa, five African peers, and three global benchmarks, using 24 years of World Bank data.
 
@@ -8,13 +8,13 @@ Final capstone project for the AnalystLab Africa data analytics internship (Week
 
 ## Problem Statement
 
-Mobile phone ownership across Africa has grown explosively, but internet usage has not kept pace. This project examines that disconnect — why mobile adoption leapfrogged while internet access lagged — and identifies what separates the more-connected countries from the less-connected ones.
+Mobile phone ownership across Africa has grown explosively, but internet usage has not kept pace. This project examines that disconnect — why mobile adoption leapfrogged while internet access lagged and identifies what separates the more-connected countries from the less-connected ones.
 
 It answers four questions:
 
 - How wide is the gap between mobile subscriptions and actual internet usage?
 - How does South Africa compare to its peers and to global benchmarks?
-- What factors — wealth, electricity, infrastructure — explain the differences?
+- What factors : wealth, electricity, infrastructure — explain the differences?
 - How many people, in absolute terms, remain offline?
 
 ---
